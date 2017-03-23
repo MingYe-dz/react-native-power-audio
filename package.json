@@ -1,0 +1,19 @@
+{
+	"name": "react-native-power-audio",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Denzel_Abner (https://github.com/MingYe-dz/react-native-power-audio)",
+	"keywords": [
+    "react-native",
+    "audio",
+    "record",
+    "play",
+		"power",
+		"sound"
+  ],
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/MingYe-dz/react-native-power-audio.git"
+  },
+  "nativePackage": true
+}
